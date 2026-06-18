@@ -1,0 +1,28 @@
+# Build artifacts
+/build/
+*.o
+*.obj
+*.exe
+*.elf
+
+# Logs and snapshots
+logs/
+*.log
+*.bin
+
+# Editor / OS files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Temporary files
+*.tmp
+*.cache
+
+# Coverage / test outputs
+.coverage
+.coverage.*
+
+# Other
+*.exe~
