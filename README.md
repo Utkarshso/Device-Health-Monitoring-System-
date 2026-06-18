@@ -1,7 +1,5 @@
 # Embedded Device Health Monitoring System
 
-![Embedded Device Health Monitor](assests/image.png)
-
 A **C17 desktop simulation of embedded firmware** that demonstrates a production-oriented, layered firmware architecture for monitoring device health. The application runs on a PC for rapid development and testing while maintaining a Hardware Abstraction Layer (HAL) that allows the same high-level code to be retargeted to microcontrollers such as STM32 with minimal changes.
 
 ---
